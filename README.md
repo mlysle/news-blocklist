@@ -11,6 +11,9 @@ This is not a hosts file. I recommend you use this blocklist with [Blocky](https
 - Hacker News
 - Bing (because they don't use a news subdomain)
 - Bitchute 
+- Gab
+- Lemmy
+- Truth Social
 - Polymarket
 
 *Not blocked:*
@@ -19,3 +22,8 @@ This is not a hosts file. I recommend you use this blocklist with [Blocky](https
 - Non-political news (sports, technology, etc). I may make a separate category for that later.
 
 Missing something? Feel free to submit a pull request.
+
+## Future
+- Categories
+- uBlock Filters for mixed-content sites
+- Youtube Channel blocklists
